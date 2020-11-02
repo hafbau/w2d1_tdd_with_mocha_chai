@@ -3,7 +3,7 @@ W2D1 - TDD with Mocha and Chai
 
 Hi crew, thanks for the awesome class this morning. Please find below some notes I took in class (plus Andy's notes - thanks Andy).
 
-[Here's a link to the code we wrote]()
+[Here's a link to the code we wrote](https://github.com/hafbau/w2d1_tdd_with_mocha_chai)
 [Video will be here when upload is done](#)
 
 - [x] Intro to testing
