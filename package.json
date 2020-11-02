@@ -1,0 +1,19 @@
+{
+  "name": "w2d1",
+  "version": "1.0.0",
+  "description": "Lecture note and demo",
+  "main": "greet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha",
+    "testing"
+  ],
+  "author": "Hafiz Suara",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.0",
+    "chai": "^4.2.0"
+  }
+}
